@@ -135,7 +135,7 @@
 - https://AlenaGrebenchuk.github.io/smm/4module/check-lists/interview/
 # 4 Модуль:
 ### Урок 4.1 Как набрать первых подписчиков 
-- https://AlenaProSmm.github.io/smm1.0/4module/followers/
+- https://alenagrebenchuk.github.io/smm/4module/followers/
 - Домашнее задание
 - https://docs.google.com/file/d/1F32cjTmKvkrQ-9-enVsXWZIN-ke2FgTy/edit?filetype=msword
 
