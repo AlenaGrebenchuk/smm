@@ -177,6 +177,8 @@
 - https://www.youtube.com/watch?v=SU0p0w1REZY&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
 - Видеоурок "Гивы, мой опыт"
 - https://www.youtube.com/watch?v=r493mIt2sDU&ab_channel=Alena.pro.smm_
+- Чеклист "10 фраз на собеседовании, после которых вас не возьмут на работу"
+- https://alenagrebenchuk.github.io/smm/4module/checklists/interview/
 
 # 5 Модуль:
 ### Урок 5.1 Сильный личный бренд
